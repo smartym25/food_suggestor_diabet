@@ -1,0 +1,160 @@
+FoodName,Ig,FoodCategory,Cho,Cg,CategoryIg_or_FishMeatFatValue
+Wheat Tortilla,30,Bakery and Bread,15.0,4.5,low
+Coarse Barley Bread 80% Kernels,34,Bakery and Bread,15.0,5.1,low
+Vanilla Cake Made from Packet Mix with Vanilla Frosting,42,Bakery and Bread,30.0,12.6,low
+Apple Muffin Made with Rolled Oats and Sugar,44,Bakery and Bread,30.0,13.2,low
+Sponge Cake Plain,46,Bakery and Bread,30.0,13.8,low
+Banana Cake Made with Sugar,47,Bakery and Bread,30.0,14.1,low
+Apple Muffin Made with Rolled Oats and Without Sugar,48,Bakery and Bread,30.0,14.4,low
+100% Whole Grain Bread,51,Bakery and Bread,15.0,7.65,low
+Corn Tortilla,52,Bakery and Bread,15.0,7.8,low
+Banana Cake Made Without Sugar,55,Bakery and Bread,30.0,16.5,low
+Pumpernickel Bread,56,Bakery and Bread,15.0,8.4,medium
+50% Cracked Wheat Kernel Bread,58,Bakery and Bread,15.0,8.7,medium
+Hamburger Bun,62,Bakery and Bread,15.0,9.3,medium
+Pita Bread White,68,Bakery and Bread,15.0,10.2,medium
+Whole Wheat Bread,69,Bakery and Bread,15.0,10.35,medium
+Bagel White Frozen,72,Bakery and Bread,15.0,10.8,high
+Wonder Bread,73,Bakery and Bread,15.0,10.95,high
+Kaiser Roll,74,Bakery and Bread,15.0,11.1,high
+White Wheat Flour Bread,75,Bakery and Bread,15.0,11.25,high
+Waffles Aunt Jemima,76,Bakery and Bread,15.0,11.4,high
+Baguette White Plain,95,Bakery and Bread,15.0,14.25,high
+Chickpeas,10,Beans and Nuts,15.0,1.5,low
+Peanuts,13,Beans and Nuts,5.0,0.65,low
+Soy Beans,15,Beans and Nuts,15.0,2.25,low
+Cashews,22,Beans and Nuts,9.0,1.98,low
+Lentils,28,Beans and Nuts,15.0,4.2,low
+Black Beans,30,Beans and Nuts,15.0,4.5,low
+Kidney Beans,47,Beans and Nuts,15.0,7.05,low
+Navy Beans,39,Beans and Nuts,15.0,5.85,low
+Baked Beans,40,Beans and Nuts,15.0,6.0,low
+Chickpeas Canned in Brine,42,Beans and Nuts,20.0,8.4,low
+Black-Eyed Peas,50,Beans and Nuts,25.0,12.5,low
+Red Wine,15,Beverages,1.0,0.15,low
+Beer,15,Beverages,13.0,1.95,low
+Tomato Juice,38,Beverages,10.0,3.8,low
+Apple Juice Unsweetened,41,Beverages,28.0,11.48,low
+Orange Juice Unsweetened,50,Beverages,26.0,13.0,low
+Coca Cola,63,Beverages,26.0,16.38,medium
+Fanta Orange Soft Drink,68,Beverages,27.0,18.36,medium
+Cranberry Juice Cocktail,68,Beverages,30.0,20.4,medium
+Gatorade,89,Beverages,14.0,12.46,high
+All Bran Average,44,Cereals,20.0,8.8,low
+Rolled Oats,50,Cereals,27.0,13.5,low
+Oatmeal Average,55,Cereals,25.0,13.75,low
+Muesli Average,56,Cereals,28.0,15.68,medium
+Mini Wheats,58,Cereals,32.0,18.56,medium
+Raisin Bran,61,Cereals,46.0,28.06,medium
+Cream of Wheat,66,Cereals,30.0,19.8,medium
+Special K,69,Cereals,23.0,15.87,medium
+Cream of Wheat,74,Cereals,30.0,22.2,high
+Cheerios,74,Cereals,20.0,14.8,high
+Grape Nuts,75,Cereals,47.0,35.25,high
+Coco Pops,77,Cereals,30.0,23.1,high
+Instant Oatmeal,79,Cereals,27.0,21.33,high
+Puffed Wheat Cereal,80,Cereals,24.0,19.2,high
+Cornflake,81,Cereals,26.0,21.06,high
+Rice Krispies,82,Cereals,29.0,23.78,high
+Whole Milk,31,Dairy Products,12.0,3.72,low
+Skim Milk,31,Dairy Products,12.0,3.72,low
+Sweetened Yogurt,33,Dairy Products,20.0,6.6,low
+Low Fat Yogurt,33,Dairy Products,15.0,4.95,low
+Chocolate Milk,40,Dairy Products,26.0,10.4,low
+Soy Milk,44,Dairy Products,15.0,6.6,low
+Plain Ice Cream,61,Dairy Products,23.0,14.03,medium
+Cherries,22,Fruits,12.0,2.64,low
+Grapefruit,25,Fruits,13.0,3.25,low
+Prunes Pitted,29,Fruits,24.0,6.96,low
+Raspberries,30,Fruits,7.0,2.1,low
+Apple,36,Fruits,25.0,9.0,low
+Pears,38,Fruits,22.0,8.36,low
+Blueberries,40,Fruits,14.0,5.6,low
+Strawberries,40,Fruits,8.0,3.2,low
+Dates,42,Fruits,28.0,11.76,low
+Peach,42,Fruits,15.0,6.3,low
+Oranges,45,Fruits,18.0,8.1,low
+Grapes,46,Fruits,27.0,12.42,low
+Kiwi,47,Fruits,10.0,4.7,low
+Banana,48,Fruits,27.0,12.96,low
+Pineapple,59,Fruits,20.0,11.8,medium
+Raisins,64,Fruits,34.0,21.76,medium
+Cantaloupe,65,Fruits,13.0,8.45,medium
+Watermelon,72,Fruits,11.0,7.92,high
+Kale,5,Vegetables,1.0,0.05,low
+Brussels Sprouts,6,Vegetables,8.0,0.48,low
+Spinach,6,Vegetables,1.0,0.06,low
+Broccoli,10,Vegetables,6.0,0.6,low
+Cabbage,10,Vegetables,5.0,0.5,low
+Cauliflower,12,Vegetables,5.0,0.6,low
+Tomato,15,Vegetables,4.0,0.6,low
+Carrots,39,Vegetables,7.0,2.73,low
+Parsnips,52,Vegetables,13.0,6.76,low
+Green Peas,54,Vegetables,12.0,6.48,low
+Yams,54,Vegetables,27.0,14.58,low
+Corn on the Cob,54,Vegetables,19.0,10.26,low
+Sweet Potato,70,Vegetables,20.0,14.0,high
+French Fries,75,Vegetables,35.0,26.25,high
+Boiled White Potato,82,Vegetables,21.0,17.22,high
+Instant Mashed Potato,87,Vegetables,23.0,20.01,high
+Baked Russet Potato,111,Vegetables,37.0,41.07,high
+Pearled Barley,25,Grains and Starches,28.0,7.0,low
+Wheat Tortilla,30,Grains and Starches,23.0,6.9,low
+Wheat Pasta,30,Grains and Starches,30.0,9.0,low
+Parboiled Converted White Rice,38,Grains and Starches,36.0,13.68,low
+Whole Wheat Kernels,45,Grains and Starches,41.0,18.45,low
+Bulgur,47,Grains and Starches,34.0,15.98,low
+Brown Rice Steamed,50,Grains and Starches,45.0,22.5,low
+Corn Tortilla,52,Grains and Starches,22.0,11.44,low
+Quinoa,53,Grains and Starches,39.0,20.67,low
+Pumpernickel Bread,56,Grains and Starches,15.0,8.4,medium
+Wheat Bread,60,Grains and Starches,13.0,7.8,medium
+Quick Cooking White Basmati,63,Grains and Starches,40.0,25.2,medium
+Cous cous,65,Grains and Starches,36.0,23.4,medium
+Pita Bread,68,Grains and Starches,33.0,22.44,medium
+Taco Shells,68,Grains and Starches,19.0,12.92,medium
+Slice of White Bread,70,Grains and Starches,14.0,9.8,high
+Plain Bagel,72,Grains and Starches,48.0,34.56,high
+Waffles,76,Grains and Starches,30.0,22.8,high
+White Rice,85,Grains and Starches,45.0,38.25,high
+Baguette (White),95,Grains and Starches,57.0,54.15,high
+Stevia,8,Sweeteners,2.5,0.2,low
+Fructose,15,Sweeteners,4.0,0.6,low
+Agave Syrup,15,Sweeteners,5.0,0.75,low
+Coconut Palm Sugar,35,Sweeteners,15.0,5.25,low
+Maple Syrup,54,Sweeteners,13.0,7.02,low
+Caramel,60,Sweeteners,10.0,6.0,medium
+Honey,61,Sweeteners,17.0,10.37,medium
+Sucrose,65,Sweeteners,25.0,16.25,medium
+Splenda (Artificial),80,Sweeteners,1.0,0.8,high
+Glucose,100,Sweeteners,30.0,30.0,high
+Nutella,33,Snack Foods,17.0,5.61,low
+M&Ms Peanut,33,Snack Foods,21.0,6.93,low
+Corn Chips,42,Snack Foods,18.0,7.56,low
+Snickers Bar (High Fat),50,Snack Foods,33.0,16.5,low
+Potato Chips Average,56,Snack Foods,29.0,16.24,medium
+Blueberry Muffin,59,Snack Foods,49.0,28.91,medium
+Shortbread Cookies,64,Snack Foods,23.0,14.72,medium
+Rye Crisps,64,Snack Foods,17.0,10.88,medium
+Popcorn,65,Snack Foods,22.0,14.3,medium
+Graham Crackers,74,Snack Foods,20.0,14.8,high
+Soda Crackers,74,Snack Foods,15.0,11.1,high
+Donuts,76,Snack Foods,20.0,15.2,high
+Vanilla Wafers,77,Snack Foods,20.0,15.4,high
+Rice Cakes,82,Snack Foods,15.0,12.3,high
+Pretzels,83,Snack Foods,25.0,20.75,high
+Fruit Roll-Ups,99,Snack Foods,25.0,24.75,high
+Fettucine,32,Pasta and Noodles,40.0,12.8,low
+Spaghetti White Boiled 15 min in salted water,44,Pasta and Noodles,40.0,17.6,low
+Macaroni,48,Pasta and Noodles,40.0,19.2,low
+Macaroni and Cheese,65,Pasta and Noodles,40.0,26.0,medium
+Cooked chicken breast, 0, Meat and Fish,0.0,0.0, low
+Cooked lean beef, 0, Meat and Fish,0.0,0.0, medium
+Cooked pork loin,0,Meat and Fish,0.0,0.0,medium
+Cooked lamb,0,Meat and Fish,0.0,0.0,high
+Baked salmon,0,Meat and Fish,0.0,0.0,medium
+Cooked chicken breast,0,Meat and Fish,0.0,0.0,low
+Cooked lean beef,0,Meat and Fish,0.0,0.0,medium
+Cooked pork loin,0,Meat and Fish,0.0,0.0,medium
+Cooked lamb,0,Meat and Fish,0.0,0.0,high
+Baked salmon,0,Meat and Fish,0.0,0.0,medium
